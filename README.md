@@ -79,7 +79,8 @@ This project requires the following Python libraries:
 ## Screenshots
 
 ### 1. Main GUI Window
-![Main GUI](Media/Screenshot1.png)
+![Main GUI](https://github.com/user-attachments/assets/7ffb6346-e760-432b-a849-0f49a89dbee0)
 
 ### 2. Tutorial in Action
-![Tutorial Window](Media/Screenshot2.png)
+![Tutorial Window](https://github.com/user-attachments/assets/96a10d34-1c20-42b0-bb21-3e0d276a12a7)
+
