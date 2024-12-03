@@ -85,8 +85,9 @@ This project requires the following Python libraries:
 ![Tutorial Window](https://github.com/user-attachments/assets/96a10d34-1c20-42b0-bb21-3e0d276a12a7)
 
 ## Demo Video
-This video demonstrates the Fish Bot Automation Tool in action:
+This video demonstrates the Fish Bot Automation Tool in action:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8vWgnX10sU" frameborder="0" allowfullscreen></iframe>
+[![Watch the Demo](https://img.youtube.com/vi/q8vWgnX10sU/0.jpg)](https://youtu.be/q8vWgnX10sU)
+
 
 
