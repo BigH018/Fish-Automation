@@ -6,7 +6,7 @@ def run_app(callbacks):
     """Sets up and runs the GUI application."""
     dpg.create_context()
     setup_ui(callbacks)
-    dpg.create_viewport(title="Fish Bot -BigH", width=600, height=650)
+    dpg.create_viewport(title="Fish Bot -BigH", width=550, height=650)
     dpg.setup_dearpygui()
     dpg.show_viewport()
     dpg.start_dearpygui()
