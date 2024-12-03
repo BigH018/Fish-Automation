@@ -79,7 +79,7 @@ This project requires the following Python libraries:
 ## Screenshots
 
 ### 1. Main GUI Window
-![Main GUI](Media/screenshot1.png)
+![Main GUI](Media/Screenshot1.png)
 
 ### 2. Tutorial in Action
-![Tutorial Window](Media/screenshot2.png)
+![Tutorial Window](Media/Screenshot2.png)
