@@ -75,3 +75,11 @@ This project requires the following Python libraries:
 
 ## Acknowledgments
 - Thanks to the creators of EasyOCR, Dear PyGui, and Tkinter for the foundational libraries.
+
+## Screenshots
+
+### 1. Main GUI Window
+![Main GUI](media/screenshot1.png)
+
+### 2. Tutorial in Action
+![Tutorial Window](media/screenshot2.png)
