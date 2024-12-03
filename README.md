@@ -75,4 +75,3 @@ This project requires the following Python libraries:
 
 ## Acknowledgments
 - Thanks to the creators of EasyOCR, Dear PyGui, and Tkinter for the foundational libraries.
-- Special thanks to the community for feedback and testing.
